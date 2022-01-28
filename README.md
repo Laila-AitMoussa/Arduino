@@ -1,5 +1,5 @@
 # Arduino
-le principe du projet: Démmarrer une ventilateur et alummée une LED jaune automatiquement si la température de l'air dépasse une température donnée (23.00°C dans le code) et si l"humidité est inférieure à une valeur donnée (50.00 % dans le code) une LED verte est allumée
+le principe du projet: Démmarrer une ventilateur et alummée une LED jaune automatiquement si la température de l'air dépasse une température donnée (23.00°C dans le code) et si l'humidité est inférieure à une valeur donnée (50.00 % dans le code) une LED verte est allumée
 
 
 Composants utilisées:
